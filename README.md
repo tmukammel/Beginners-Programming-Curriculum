@@ -12,6 +12,10 @@ Programming Curriculum For a new educational institute in Bangladesh. Our primar
 
 ### What would be the benifits of this course?
 
+### What is unique about this course?
+
+### What is the one key focus of the curriculum creators with this curriculum?
+
 
 
 ## The Curriculum
